@@ -1,0 +1,73 @@
+.detail-section {
+  margin: 0 30px 20px 18px;
+  padding: 22px;
+  box-shadow: 0px 1px 3px 0 rgba(0, 0, 0, 0.1);
+  &:hover {
+    box-shadow: 0px 1px 10px 0 rgba(0, 0, 0, 0.1);
+  }
+  .item {
+    display: flex;
+    overflow: hidden;
+    img {
+      float: left;
+      width: 260px;
+      height: 190px;
+      border-radius: 5px;
+    }
+    .info {
+      float: left;
+      box-sizing: border-box;
+      margin: 5px 25px 0 28px;
+      padding: 8px 15px 0 15px;
+      font-weight: bold;
+    }
+  }
+  .content {
+    margin: 15px 15px 10px 15px;
+    padding: 5px;
+  }
+  .material {
+    p {
+      font-weight: bold;
+    }
+  }
+  .process {
+    margin-top: 30px;
+    p {
+      font-weight: bold;
+    }
+    .process-item {
+      display: flex;
+      overflow: hidden;
+      margin-top: 6px;
+      padding: 8px;
+      cursor: pointer;
+      &:hover {
+        transform: scale(1.1, 1.1);
+        box-shadow: 0px 1px 10px 0 rgba(0, 0, 0, 0.1);
+      }
+      img {
+        float: left;
+        width: 200px;
+        height: 145px;
+        border-radius: 5px;
+      }
+      .process-info {
+        float: left;
+        box-sizing: border-box;
+        margin: 8px 25px 0 30px;
+        padding: 8px 15px 0 15px;
+        font-weight: bold;
+        .stepNum {
+          width: 26px;
+          height: 26px;
+          line-height: 24px;
+          text-align: center;
+          border: 2px solid pink;
+          border-radius: 50%;
+          color: #2edddd;
+        }
+      }
+    }
+  }
+}
