@@ -43,7 +43,7 @@ class CardList extends Component {
   getCardData = keyword => {
     const num = 12;
     Axios.jsonp({
-      url: `http://api.jisuapi.com/recipe/search?keyword=${keyword}&num=${num}&appkey=87d7dab071963359`
+      url: `https://api.jisuapi.com/recipe/search?keyword=${keyword}&num=${num}&appkey=87d7dab071963359`
     }).then(res => {
       if (res.status === 0) {
         let list = this.renderCardList(res.result.list);
