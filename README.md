@@ -1,4 +1,4 @@
-## 🔥💥Cooking Website
+## 🍇🍰 Cooking Website
 
 > 一个基于 React 全家桶制作的”下厨房“网站项目
 
