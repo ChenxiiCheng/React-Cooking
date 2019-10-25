@@ -7,7 +7,6 @@
 #### Preview | 预览
 
 ![image-20191024232242863](./imgs/cooking-react.jpeg)
-<<<<<<< HEAD
 
 
 
