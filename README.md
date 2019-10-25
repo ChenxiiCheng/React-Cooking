@@ -1,18 +1,14 @@
 ## Cooking Website
 
-> 一个基于React全家桶制作的”下厨房“网站项目
+> 一个基于 React 全家桶制作的”下厨房“网站项目
 
-[Website]: cooking.chenxii.xyz
+[website]: cooking.chenxii.xyz
 
 #### Preview | 预览
 
 ![image-20191024232242863](/Users/chenxi/Library/Application Support/typora-user-images/image-20191024232242863.png)
 
-
-
-------
-
-
+---
 
 ### 技术栈
 
@@ -22,11 +18,7 @@
 - Less：^2.7.3
 - Ant Design UI：^3.22.1
 
-
-
-------
-
-
+---
 
 ### 本地运行
 
@@ -36,4 +28,3 @@ cd React-Cooking
 npm install  // Or use yarn
 npm run start
 ```
-
