@@ -6,7 +6,7 @@
 
 #### Preview | 预览
 
-![image-20191024232242863](/Users/chenxi/Library/Application Support/typora-user-images/image-20191024232242863.png)
+![image-20191024232242863](./imgs/cooking-react.jpeg)
 
 ---
 
