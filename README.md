@@ -2,7 +2,7 @@
 
 > 一个基于 React 全家桶制作的”下厨房“网站项目
 
-[website]: cooking.chenxii.xyz
+[ Website | Cooking ](cooking.chenxii.xyz)
 
 #### Preview | 预览
 
