@@ -2,9 +2,9 @@
 
 > 一个基于 React 全家桶制作的”下厨房“网站项目
 
-[ Cooking | GitHub Page ](https://cooking.chenxii.xyz) | GtiHub Page访问速度快
+[ Cooking | GitHub Page ](https://cooking.chenxii.xyz) | GitHub Page 访问速度快些 | GitHub Page access faster than Heokuro
  
-[ Cooking | Heroku ](https://cooking-react.herokuapp.com/) | 因为一小时内若无访问，Heroku后台会自动睡眠，所以访问速度慢些
+[ Cooking | Heroku ](https://cooking-react.herokuapp.com/) | 因为一小时内若无访问，Heroku后台会自动睡眠，所以访问速度慢些 | Heroku partitions according to resource requirements, if the application has not been accessed for a while, the program stops.
 
 #### Preview | 预览
 
