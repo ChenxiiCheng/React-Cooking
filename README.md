@@ -7,21 +7,12 @@
 #### Preview | 预览
 
 ![image-20191024232242863](./imgs/cooking-react.jpeg)
-<<<<<<< HEAD
-
-
 
 ![image-20191024234724936](/Users/chenxi/Library/Application Support/typora-user-images/image-20191024234724936.png)
 
-
-
 ![image-20191024234748212](/Users/chenxi/Library/Application Support/typora-user-images/image-20191024234748212.png)
 
-
-
 ![image-20191024234755928](/Users/chenxi/Library/Application Support/typora-user-images/image-20191024234755928.png)
-
-
 
 ---
 
