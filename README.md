@@ -2,7 +2,9 @@
 
 > 一个基于 React 全家桶制作的”下厨房“网站项目
 
-[ Website | Cooking ](https://cooking.chenxii.xyz)
+[ Cooking | GitHub Page ](https://cooking.chenxii.xyz) | GtiHub Page访问速度快
+ 
+[ Cooking | Heroku ](https://cooking-react.herokuapp.com/) | 因为一小时内若无访问，Heroku后台会自动睡眠，所以访问速度慢些
 
 #### Preview | 预览
 
